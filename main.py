@@ -4,7 +4,7 @@ import requests
 import xml.etree.ElementTree as ET
 
 # Ссылка на нужный раздел форума Majestic RP
-RSS_URL = "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.37/index.rss"
+RSS_URL = "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.474//index.rss"
 # Твой вебхук из Дискорда (Railway подтянет его автоматически)
 DISCORD_WEBHOOK = os.getenv("DISCORD_WEBHOOK")
 
